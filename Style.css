@@ -11,7 +11,7 @@ body {
 
 /* ---------------- HERO SECTION ---------------- */
 .hero {
-    background : url('header.jpg') center/cover no-repeat;
+    background : url('Header.jpg') center/cover no-repeat;
     height: 420px;
     color: rgba(250, 250, 250, 0);
     position: relative;
